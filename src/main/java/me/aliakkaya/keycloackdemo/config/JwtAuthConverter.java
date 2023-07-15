@@ -1,6 +1,5 @@
 package me.aliakkaya.keycloackdemo.config;
 
-import lombok.AllArgsConstructor;
 import lombok.NonNull;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
